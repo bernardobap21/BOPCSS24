@@ -122,4 +122,4 @@ if __name__ == "__main__":
 
         plt.tight_layout()
         plt.savefig(args.o, bbox_inches='tight')
-        #plt.show()
+        plt.show()
